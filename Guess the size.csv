@@ -1,0 +1,4 @@
+target,left,right,correct response,user response 1,opponent response,user response 2
+65,50,62,2,2,1,2
+60,45,63,2,2,1,2
+70,71,39,1,1,2,1
